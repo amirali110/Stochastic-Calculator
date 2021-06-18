@@ -7,9 +7,8 @@ note that you must use VPN
 
 
 ![34غ3](https://user-images.githubusercontent.com/37404187/122449711-6b3e2180-cfbb-11eb-8ede-1c524dacb58e.PNG)
- -.
- -.
- -.
+//////
+*****
 
 ![قثسلصقثا](https://user-images.githubusercontent.com/37404187/122449738-72fdc600-cfbb-11eb-94e6-3459ff1a41b5.PNG)
 
