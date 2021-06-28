@@ -5,7 +5,7 @@ Get more than 100 stochastic charts with stochastic_calclulator program
 
 In new version:
 
-*Program can calculate D also show it in chart
+*Program can calculates D also show it in chart
 <br>
 *Program Can smoothing D & K
 
