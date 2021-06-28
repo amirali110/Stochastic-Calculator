@@ -5,11 +5,12 @@ Get more than 100 stochastic charts with stochastic_calclulator program
 
 In new version:
 
-*Can calculate D
-*Can smooth D & K
+*Program can calculate D also show it in chart
+<br>
+*Program Can smoothing D & K
 
 
-note that you must use VPN
+*note that you must use VPN
 
 
 
